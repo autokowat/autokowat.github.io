@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Your research project
+title: Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
 description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/header2.jpg
 permalink: /
 ---
 
