@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
-description: Uses an easy to customize theme for its website
+title: AutoKoWaT
+description: Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
 background: /assets/theme/images/header2.jpg
 permalink: /
 ---
