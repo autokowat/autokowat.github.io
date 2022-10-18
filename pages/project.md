@@ -6,17 +6,20 @@ permalink: /project/
 ---
 
 {: .alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md).
+## AutoKoWaT
+# Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
 
-This is a default page. See [configuration]({{ '/configuration/' | relative_url }}) to learn more about **pages**.
+## Motivation
 
-To remove this page, you need to:
+Today, goods handling systems are overwhelmed in dynamic environments with open, unorganized workspaces and changing tasks. Neither the existing sensors nor the operating software are suitable for autonomous operations under these conditions. Ensuring high operational reliability is only possible here at the expense of efficiency and limits usability.
 
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
+## Goals and procedure
 
-## Some gibberish
+In the AutoKoWaT project, self-driving transport systems are to be enabled by additional photonic components, first and foremost sensors and artificial intelligence, to solve a wide range of logistics tasks in complex, dynamic situations, either alone or in a swarm. The innovative sensor technology is to capture the workspace in a 3D multimodal imaging, predictive and dynamically robust manner. From the data, relevant workspace objects are identified, located, semantically analyzed, and appropriate actions are derived. To ensure lowest system latencies, the optimized design of photonic components as well as their interaction with mechanisms of mutual control are development goals. Components for a guidance and control system are developed for the interaction of photonics and robotics.
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+## Innovation and perspectives
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+The approach of photonic add-ons consisting of novel 3D-sensory components and solutions for intelligent on-site processing and process control pursued in AutoKoWaT allows the use under challenging conditions of dynamic goods transport use cases as well as in a variety of other applications. The results of the project are to form the basis for the development of marketable product solutions that can be used in many industries.
+
+This project is funded by the Federal Ministry of Education and Research (BMBF) 
+![image](assets/theme/images/bmbf-logo-englisch-300x229-300x229.jpg)
