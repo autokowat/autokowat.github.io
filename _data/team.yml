@@ -23,6 +23,6 @@
 
 - name: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
   role: Magdeburg
-  image: assets/theme/images/feit_logo.pdf
+  image: /assets/theme/images/feit_logo.pdf
   description: >
     
