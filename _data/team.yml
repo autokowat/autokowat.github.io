@@ -2,7 +2,7 @@
 
 - name: MartinMechanic Friedrich Martin GmbH & Co. KG
   role: Nagold
-  image: # Can be external link
+  image: https://www.martinmechanic.com/files/images/logo.png # Can be external link
   description: > # Can be Markdown
     
   #orcid: 0000-0000-0000-0000
@@ -13,16 +13,16 @@
 
 - name: LUCAS instruments GmbH
   role: Jena
-  image: 
+  image: http://www.lucas-jena.de/files/logo.jpg
   description: >
     
 - name: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
   role: Ilmenau
-  image: 
+  image: https://www.zbs-ilmenau.de/wp-content/uploads/2019/02/cropped-cropped-ZBSLogoGrossTrans.png
   description: >
 
 - name: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
   role: Magdeburg
-  image: 
+  image: assets/theme/images/feit_logo.pdf
   description: >
     
