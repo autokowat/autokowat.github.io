@@ -8,8 +8,8 @@
   href: /team/
 - text: Publications
   href: /publications/
-#- text: Blog
-#  href: /blog/
+- text: News
+  href: /blog/
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
