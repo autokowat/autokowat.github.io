@@ -5,11 +5,17 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: MartinMechanic Friedrich Martin GmbH & Co. KG
+      href: https://www.martinmechanic.com
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: LUCAS instruments GmbH
+      href: http://www.lucas-jena.de
+      new_window: true
+    - text: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
+      href: https://www.zbs-ilmenau.de
+      new_window: true
+    - text: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
+      href: https://www.ovgu.de/nit
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
