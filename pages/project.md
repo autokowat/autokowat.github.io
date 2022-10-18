@@ -21,5 +21,5 @@ In the AutoKoWaT project, self-driving transport systems are to be enabled by ad
 
 The approach of photonic add-ons consisting of novel 3D-sensory components and solutions for intelligent on-site processing and process control pursued in AutoKoWaT allows the use under challenging conditions of dynamic goods transport use cases as well as in a variety of other applications. The results of the project are to form the basis for the development of marketable product solutions that can be used in many industries.
 
-This project is funded by the Federal Ministry of Education and Research (BMBF) 
+This project is funded by the Federal Ministry of Education and Research of Germany (BMBF) (grant no.~13N16336)
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/20/DEgov-BMBF-Logo_en.svg)
