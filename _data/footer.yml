@@ -19,7 +19,7 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is funded by the Federal Ministry of Education and Research of Germany (BMBF) (grant no.~13N16336) <img src=https://upload.wikimedia.org/wikipedia/commons/2/20/DEgov-BMBF-Logo_en.svg width="50">
+      This project is funded by the Federal Ministry of Education and Research of Germany (BMBF) (grant no.~13N16336) <img src=https://www.suveren-nec.info/wp-content/uploads/2017/10/Logo-BMBF.png width="100"/>
     links: https://www.photonikforschung.de/projekte/sensorik-und-analytik/projekt/autokowat.html
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
