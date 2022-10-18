@@ -7,6 +7,7 @@ permalink: /project/
 
 {: .alert .alert-warning}
  
+![image](/assets/theme/images/logo_autokowat.png)
 
 ## Motivation
 
