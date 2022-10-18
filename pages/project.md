@@ -1,13 +1,11 @@
 ---
-title: Project
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+title: AutoKoWaT
+description: Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
 background: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
 permalink: /project/
 ---
 
 {: .alert .alert-warning}
-## AutoKoWaT
-# Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
 
 ## Motivation
 
@@ -22,4 +20,4 @@ In the AutoKoWaT project, self-driving transport systems are to be enabled by ad
 The approach of photonic add-ons consisting of novel 3D-sensory components and solutions for intelligent on-site processing and process control pursued in AutoKoWaT allows the use under challenging conditions of dynamic goods transport use cases as well as in a variety of other applications. The results of the project are to form the basis for the development of marketable product solutions that can be used in many industries.
 
 This project is funded by the Federal Ministry of Education and Research (BMBF) 
-![image](assets/theme/images/bmbf-logo-englisch-300x229-300x229.jpg)
+![image](https://www.globallearningcouncil.org/wp-content/uploads/2017/04/bmbf-logo-englisch-300x229.jpg)
