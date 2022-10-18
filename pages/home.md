@@ -1,10 +1,9 @@
 ---
 layout: home
 title: AutoKoWaT
-description: Innovative Photonics for Autonomic Collaborative Systems in Dynamic Goods Transport Processes
+description: Innovative Photonics for Autonomous Collaborative Systems in Dynamic Good Transportation Processes
 background: /assets/theme/images/header2.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
 
