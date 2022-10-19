@@ -18,7 +18,7 @@ Universitätsplatz 2
 39106 Magdeburg
 
 
-Mail: https://mailhide.io/e/PYvKD7Ug
+Mail: [https://mailhide.io/e/PYvKD7Ug](https://mailhide.io/e/PYvKD7Ug)
 
 
 ## Datenschutz
