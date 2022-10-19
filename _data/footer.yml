@@ -11,6 +11,8 @@ columns:
     - text: LUCAS instruments GmbH
       href: https://www.lucas-jena.de
       new_window: true
+  - descrption:
+    links:
     - text: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
       href: https://www.zbs-ilmenau.de
       new_window: true
