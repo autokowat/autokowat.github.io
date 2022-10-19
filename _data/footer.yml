@@ -32,4 +32,5 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish) | Header image <a href="https://www.freepik.com/free-photo/factory-automation-with-agv-robotic-arm-transportation-increase-transport-more-with-safety_8715437.htm#query=warehouse%20robot&position=40&from_view=keyword">by vanitjan</a> on Freepik
+  \| Theme: [Petridish](https://github.com/peterdesmet/petridish) 
+  \| Header image <a href="https://www.freepik.com/free-photo/factory-automation-with-agv-robotic-arm-transportation-increase-transport-more-with-safety_8715437.htm#query=warehouse%20robot&position=40&from_view=keyword">by vanitjan</a> on Freepik
