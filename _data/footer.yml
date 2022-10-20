@@ -5,20 +5,21 @@
 columns:
   - description:
     links:
-    - text: MartinMechanic Friedrich Martin GmbH & Co. KG
-      href: https://www.martinmechanic.com
-      new_window: true
-    - text: LUCAS instruments GmbH
-      href: https://www.lucas-jena.de
+    - text: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
+      href: https://www.nit.ovgu.de/
       new_window: true
   - descrption:
     links:
     - text: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
       href: https://www.zbs-ilmenau.de
       new_window: true
-    - text: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
-      href: https://www.nit.ovgu.de/
+    - text: MartinMechanic Friedrich Martin GmbH & Co. KG
+      href: https://www.martinmechanic.com
       new_window: true
+    - text: LUCAS instruments GmbH
+      href: https://www.lucas-jena.de
+      new_window: true
+
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by the Federal Ministry of Education and Research of Germany (BMBF) (grant no.~13N16336)

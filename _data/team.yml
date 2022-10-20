@@ -1,5 +1,10 @@
 # Project team members listed below will appear on the /team page
 
+- name: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
+  role: Magdeburg
+  image: https://www.cd.ovgu.de/cd_media/CD_OVGU/Downloads/Logo_Fakult%C3%A4tsfarben/EIT/Signet_EIT_1-height-80-width-230-p-600.jpg
+  description: >
+
 - name: MartinMechanic Friedrich Martin GmbH & Co. KG
   role: Nagold
   image: https://www.martinmechanic.com/files/images/logo.png # Can be external link
@@ -20,9 +25,3 @@
   role: Ilmenau
   image: https://www.zbs-ilmenau.de/wp-content/uploads/2019/02/cropped-cropped-ZBSLogoGrossTrans.png
   description: >
-
-- name: Neuro-Information Technology Group, Otto-von-Guericke-Universität Magdeburg
-  role: Magdeburg
-  image: https://www.cd.ovgu.de/cd_media/CD_OVGU/Downloads/Logo_Fakult%C3%A4tsfarben/EIT/Signet_EIT_1-height-80-width-230-p-600.jpg
-  description: >
-    
