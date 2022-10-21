@@ -18,7 +18,7 @@
 
 - name: LUCAS instruments GmbH
   role: Jena
-  image: https://www.lucas-jena.de/files/logo.jpg
+  image: /assets/theme/images/lucas_logo_2022_600dpi.png
   description: >
     
 - name: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
