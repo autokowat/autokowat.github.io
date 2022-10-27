@@ -26,10 +26,10 @@ description: Template for a list of posts, with full width
     
     if (urlParams.has("category") && urlParams.get("category") != "") {
       const category = urlParams.get("category"); // Will return 1st category value + decode URI
-      const cleanCategory = "Publication" //$.trim(category.toLowerCase()); // Create category as written in .card data-categories
+      const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
       
       $(".card").each(function() {
-        const cardCategories = $(this).data("categories").split("|");
+        const cardCategories = "Publication" //$(this).data("categories").split("|");
         // Hide card if it does not contain the selected category
         if (!cardCategories.includes(cleanCategory)) {
           $(this).parent().addClass("d-none");
