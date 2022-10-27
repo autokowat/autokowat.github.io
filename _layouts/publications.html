@@ -24,9 +24,9 @@ description: Template for a list of posts, with full width
   $(document).ready(function() {
     const urlParams = new URLSearchParams(window.location.search);
     
-    if (urlParams.has("category") && urlParams.get("category") == "Publication") {
+    if (urlParams.has("category") && urlParams.get("category") != "") {
       const category = urlParams.get("category"); // Will return 1st category value + decode URI
-      const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
+      const cleanCategory = "Publication" //$.trim(category.toLowerCase()); // Create category as written in .card data-categories
       
       $(".card").each(function() {
         const cardCategories = $(this).data("categories").split("|");
