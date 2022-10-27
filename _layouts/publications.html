@@ -14,7 +14,7 @@ description: Template for a list of posts, with full width
 <div class="row cards">
   {% for post in site.posts %}
     <div class="col-md-6 col-lg-4">
-      {% include card.html %}
+     
     </div>
   {% endfor %}
 </div>
@@ -29,7 +29,7 @@ description: Template for a list of posts, with full width
       const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
       
       $(".card").each(function() {
-        const cardCategories = "Publication" //$(this).data("categories").split("|");
+        const cardCategories = $(this).data("categories").split("|");
         // Hide card if it does not contain the selected category
         if (!cardCategories.includes(cleanCategory)) {
           $(this).parent().addClass("d-none");
