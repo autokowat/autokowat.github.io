@@ -13,9 +13,11 @@ description: Template for a list of posts, with full width
 
 <div class="row cards">
   {% for post in site.posts %}
-    <div class="col-md-6 col-lg-4">
-     
-    </div>
+    {% if post.categories contains 'Publication' %}
+      <div class="col-md-6 col-lg-4">
+        {% include card.html %}
+      </div>
+      {% endif %}
   {% endfor %}
 </div>
 
