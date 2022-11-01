@@ -6,4 +6,4 @@ author: []
 categories: [Meetings, Kick off]
 ---
 
-
+![image](/assets/theme/images/Kickoff-Meeting.jpg)
