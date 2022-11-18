@@ -1,57 +1,21 @@
-# petridish 🧫
+# AutoKoWaT: Innovative Photonics for Autonomous Collaborative Systems in Dynamic Good Transportation Processes
 
-Petridish is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
 
-## Installation
+![image](/assets/theme/images/logo_autokowat.png#center)
 
-See the demo website for instructions:
 
-- [Installation](https://peterdesmet.github.io/petridish/installation)
-- [Configuration](https://peterdesmet.github.io/petridish/configuration)
-- [Markdown](https://peterdesmet.github.io/petridish/markdown)
 
-## Preview
+## Motivation
 
-[Demo website](https://peterdesmet.github.io/petridish)
+Today, goods handling systems are overwhelmed in dynamic environments with open, unorganized workspaces and changing tasks. Neither the existing sensors nor the operating software are suitable for autonomous operations under these conditions. Ensuring high operational reliability is only possible here at the expense of efficiency and limits usability.
 
-[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
+## Goals and procedure
 
-## Contributing
+In the AutoKoWaT project, self-driving transport systems are to be enabled by additional photonic components, first and foremost sensors and artificial intelligence, to solve a wide range of logistics tasks in complex, dynamic situations, either alone or in a swarm. The innovative sensor technology is to capture the workspace in a 3D multimodal imaging, predictive and dynamically robust manner. From the data, relevant workspace objects are identified, located, semantically analyzed, and appropriate actions are derived. To ensure lowest system latencies, the optimized design of photonic components as well as their interaction with mechanisms of mutual control are development goals. Components for a guidance and control system are developed for the interaction of photonics and robotics.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+## Innovation and perspectives
 
-## License
+The approach of photonic add-ons consisting of novel 3D-sensory components and solutions for intelligent on-site processing and process control pursued in AutoKoWaT allows the use under challenging conditions of dynamic goods transport use cases as well as in a variety of other applications. The results of the project are to form the basis for the development of marketable product solutions that can be used in many industries.
 
-[MIT License](LICENSE)
-
----
-
-<!-- All the above is about the Petridish theme, so you might want to remove that. -->
-
-_The instructions below can be adapted/included in the README of your site repository._
-
-## Usage
-
-This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
-
-Minor changes can be committed directly to `main`.
-
-Changes requiring review (e.g. new blog posts) should be created in a separate branch and submitted as a pull request. Some guidelines:
-
-- Use `72dpi` as image resolution
-- Place background images in `assets/backgrounds/`, name them after their corresponding page/post and ideally crop them to `2100 x 700px`
-- Place content images in `assets/images/`, name them after their corresponding page/post + a suffix, e.g. `-figure-1`
-- Add categories to posts to create relevant groups (e.g. same topic, project).
-- Create internal links as `[previous post]({{ '/permalink/to/post/' | relative_url }})`
-
-## Repo structure
-
-The repository structure follows that of Jekyll websites.
-
-- General site settings: [_config.yml](_config.yml)
-- Pages: [pages/](pages/)
-- Posts: [_posts/](_posts/)
-- Images & static files: [assets/](assets/)
-- Top navigation: [_data/navigation.yml](_data/navigation.yml)
-- Footer content: [_data/footer.yml](_data/footer.yml)
-- Team members: [_data/team.yml](_data/team.yml)
+This project is funded by the Federal Ministry of Education and Research of Germany (BMBF) (grant no.~13N16336)
+![image](https://upload.wikimedia.org/wikipedia/commons/2/20/DEgov-BMBF-Logo_en.svg)
