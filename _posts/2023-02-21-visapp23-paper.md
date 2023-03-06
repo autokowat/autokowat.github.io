@@ -1,6 +1,6 @@
 ---
 title: Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction
-description: 17 October 2022 in Bordeaux, France
+description: 21 February 2023 in Lissabon, Portugal
 background: /assets/theme/images/visapp23_experiment.png
 author: []
 categories: [Publication, Conference Paper, VISAPP2023]
