@@ -1,7 +1,7 @@
 ---
 title: Project Meeting Jena
 description: 09 October 2023 in Jena, Germany
-background: /assets/theme/images/treffen_jena.jpg
+background: /assets/theme/images/treffen_jena_header.jpg
 author: []
 categories: [Meetings,Jena]
 ---
