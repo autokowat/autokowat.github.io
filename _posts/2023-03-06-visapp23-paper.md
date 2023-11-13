@@ -5,6 +5,8 @@ background: /assets/theme/images/visapp23_experiment.png
 author: []
 categories: [Publication, Conference Paper, VISAPP2023]
 ---
+
+## New publication "Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction" presented at the international VISAPP23 conference
 On the 18th International Conference on Computer Vision Theory and Applications we talked about a new approach of intuitively approaching potential interaction partners.
 ![image](/assets/theme/images/visapp23_method.png)
 ## Abstract
