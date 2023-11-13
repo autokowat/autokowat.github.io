@@ -1,5 +1,5 @@
 ---
-title: Project Meeting Jena
+title: Project Meeting in Jena
 description: 09 October 2023 in Jena, Germany
 background: /assets/theme/images/treffen_jena_header.jpg
 author: []
