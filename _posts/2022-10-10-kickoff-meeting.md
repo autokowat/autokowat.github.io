@@ -1,5 +1,5 @@
 ---
-title: Kickoff meeting in Magdeburg
+title: Kickoff meeting at NIT (OvGU) in Magdeburg
 description: 10 October 2022 in Magdeburg, Germany
 background: /assets/theme/images/Kickoff-Meeting.jpg
 author: []
