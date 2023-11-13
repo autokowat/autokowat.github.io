@@ -1,5 +1,5 @@
 ---
-title: [Publication] Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction
+title: Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction
 description: 21 February 2023 in Lissabon, Portugal
 background: /assets/theme/images/visapp23_experiment.png
 author: []
