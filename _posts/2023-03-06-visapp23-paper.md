@@ -14,11 +14,13 @@ Emotion expressions serve as important communicative signals and are crucial cue
 
 ![image](/assets/theme/images/visapp23_experiment.png)
 
+## Fulltext Access
+
 Fulltext Link: [https://www.scitepress.org/PublicationsDetail.aspx?ID=xLZK20pfprc=&t=1](https://www.scitepress.org/PublicationsDetail.aspx?ID=xLZK20pfprc=&t=1)
 
 Arxiv: [https://arxiv.org/abs/2301.03867](https://arxiv.org/abs/2301.03867)
 
-Citing:
+## Citing:
 ```bibtex
 @conference{visapp23,
 author={Thorsten Hempel. and Laslo Dinges. and Ayoub Al{-}Hamadi.},
