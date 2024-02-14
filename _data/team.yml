@@ -4,14 +4,14 @@
   role: Magdeburg
   image: https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale/Logo_Abbildungen/FEIT/Signet_FEIT_1-height-145-width-344.svg
   description: >
-  The Neuro-Information Technology (NIT) group is located technically at the intersection of research fields multisensory information gathering and processing, human-machine interaction (HMI) and information perception. This involves at first the use of modern methods of information technology and pattern recognition for signal, image and video-based industrial and medical applications. 
+    The Neuro-Information Technology (NIT) group is located technically at the intersection of research fields multisensory information gathering and processing, human-machine interaction (HMI) and information perception. This involves at first the use of modern methods of information technology and pattern recognition for signal, image and video-based industrial and medical applications. 
 
 - name: MartinMechanic Friedrich Martin GmbH & Co. KG
   role: Nagold
   image: https://www.martinmechanic.com/files/images/logo.png # Can be external link
   description: >
-  More Than Just Robotics: MartinMechanic Develops Future-Oriented Technologies: Custom machines and system solutions tailored specifically to your requirements. So you can stay ahead in the competition.
-  From project planning and design to commissioning and acceptance of the system - our specialists realize sophisticated complete solutions. In jig construction, mechanical engineering, and plant construction. Competent and precise. For the highest standards in technology and automation.
+    More Than Just Robotics: MartinMechanic Develops Future-Oriented Technologies: Custom machines and system solutions tailored specifically to your requirements. So you can stay ahead in the competition.
+    From project planning and design to commissioning and acceptance of the system - our specialists realize sophisticated complete solutions. In jig construction, mechanical engineering, and plant construction. Competent and precise. For the highest standards in technology and automation.
     
   #orcid: 0000-0000-0000-0000
   #researchgate: researchgate_name
@@ -23,13 +23,12 @@
   role: Jena
   image: /assets/theme/images/lucas_logo_2022_600dpi.png
   description: >
-  LUCAS sees itself as a partner for industry and service companies in electronics and device manufacturing. The technology region of Jena provides the right environment for our performance and creativity.
-  The range of services includes devices and systems, circuit boards, and LED technology.
+    LUCAS sees itself as a partner for industry and service companies in electronics and device manufacturing. The technology region of Jena provides the right environment for our performance and creativity.
+    The range of services includes devices and systems, circuit boards, and LED technology.
 
 
 - name: Zentrum für Bild- und Signalverarbeitung in Technik, Medizin und Umwelt e.V.
   role: Ilmenau
   image: https://www.zbs-ilmenau.de/wp-content/uploads/2019/02/cropped-cropped-ZBSLogoGrossTrans.png
   description: >
-  Since the mid-1990s, ZBS e.V. has been a pivotal force in elevating optical 3D metrology in Thuringia, showcasing its impact through both commercial partner solutions and in-house developed procedures and software tools. Their current focus lies on pioneering active, single-shot methods for industrial applications, emphasizing optimal pattern design, algorithmic decoding, and advanced pattern shaping within the sensor workspace.
-
+    Since the mid-1990s, ZBS e.V. has been a pivotal force in elevating optical 3D metrology in Thuringia, showcasing its impact through both commercial partner solutions and in-house developed procedures and software tools. Their current focus lies on pioneering active, single-shot methods for industrial applications, emphasizing optimal pattern design, algorithmic decoding, and advanced pattern shaping within the sensor workspace.
