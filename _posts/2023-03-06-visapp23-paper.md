@@ -1,6 +1,7 @@
 ---
-title: Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction
-description: 21 February 2023 in Lissabon, Portugal
+title: VISAPP2023: Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction
+description: |
+    I present our recent work on sentiment-based engagement strategies for mobile robots at VISAPP2023 in Lissabon, Portugal.
 background: /assets/theme/images/visapp23_experiment.png
 author: []
 categories: [Publication, Conference Paper, VISAPP2023]
