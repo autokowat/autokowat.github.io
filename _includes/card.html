@@ -21,6 +21,15 @@
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
     </div>
+    <div class="read-more">
+      <div style="font-weight:bold; text-align:right;position: absolute;bottom: 0; right: 0; ">
+        <a class="stretched-link" href="{{ post.url | relative_url }}" >
+          "Read more"
+        </a>
+      </div>        
+      </div>
+
+    </div>
   </div>
  <!-- 
   {% if post.categories and site.archive_permalink %}
