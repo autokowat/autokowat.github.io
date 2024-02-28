@@ -21,12 +21,14 @@
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
     </div>
-    <div class="card-footer">
-    <a href="{{ post.url | relative_url }}"  class="card-link text-info mt-auto">
-      <p align="right">Read more</p>
-      </a>
-    </div>
-   
+    <div class="read-more">
+      <div style="text-align:right;position: absolute;bottom: 10; right: 10; ">
+        <a class="stretched-link" href="{{ post.url | relative_url }}" >
+          Read more
+        </a>
+      </div>        
+      </div>
+
   </div>
  <!-- 
   {% if post.categories and site.archive_permalink %}
