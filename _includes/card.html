@@ -21,6 +21,8 @@
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
     </div>
+  
+    </div>
     <div class="read-more">
       <div style="text-align:right">
         <a class="stretched-link" href="{{ post.url | relative_url }}" >
@@ -28,8 +30,6 @@
         </a>
       </div>        
       </div>
-
-    </div>
   </div>
  <!-- 
   {% if post.categories and site.archive_permalink %}
