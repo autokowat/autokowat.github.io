@@ -21,7 +21,10 @@
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
     </div>
-
+    <div class="card-footer">
+    <a href="{{ post.url | relative_url }}"  class="card-link text-info mt-auto">
+      <p align="right">Read more</p>
+      </a>
     </div>
    
   </div>
