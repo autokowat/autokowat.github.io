@@ -1,6 +1,6 @@
 ---
 title: Project Meeting at LUCAS in Jena
-description: 09 October 2023 in Jena, Germany
+description: On October 9, 2023, the project partners from ZBS, MartinMechanic, LUCAS, and OVGU convened in Jena.
 background: /assets/theme/images/treffen_jena_header.jpg
 author: []
 categories: [Meetings,Jena]
