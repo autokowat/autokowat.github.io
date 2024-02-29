@@ -3,6 +3,7 @@ title: AutoKoWaT Milestone-Meeting at ZBS in Ilemanu
 description: |
     The AutoKoWaT project team met at the Zentrum für Bild und Signalverarbeitung (ZBS) in Ilmenau for a milestone meeting reinforcing a unified commitment. 
 background: /assets/theme/images/milestone-meeting-ilmenau.jpg
+background-header: /assets/theme/images/header-card.jpg
 author: []
 categories: [Milestone, Meeting, Ilmenau]
 ---
