@@ -2,7 +2,7 @@
 title: Fine-grained gaze estimation based on the combination of regression and classification losses
 description: We present our recent work on gaze estimation. Our approach is a novel two-branch CNN architecture with a multi-loss approach to estimate gaze angles (pitch and yaw) from face images, enabling explicit learning of discriminative features for each angle. Through experiments on three datasets, the proposed model outperforms state-of-the-art methods, demonstrating superior performance in gaze estimation under unconstrained conditions.
     
-background: /assets/theme/images/appint-2024.png
+background: /assets/theme/images/applint-2024.png
 author: []
 categories: [Publication, Journal, Gaze estimation]
 ---
