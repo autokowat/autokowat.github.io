@@ -5,7 +5,9 @@ categories: meeting
 background: /assets/theme/images/abschlusstreffen.jpg
 ---
 
-Am 27. November 2025 fand das Abschlusstreffen des Projekts in Nagold statt. Das Team blickte gemeinsam auf die erreichten Meilensteine und Ergebnisse zurück und diskutierte zukünftige Perspektiven. Alle Komponenten wurden erfolgreich integriert und vor Ort demonstriert.
+# Abschlusstreffen und Demonstratorpräsentation
+
+Am 27. November 2025 fand das Abschlusstreffen des Projekts bei Demonstratorintegration MartinMechanic in Nagold statt. Das Team blickte gemeinsam auf die erreichten Meilensteine und Ergebnisse zurück und diskutierte zukünftige Perspektiven. Alle Komponenten wurden erfolgreich integriert und vor Ort demonstriert.
 
 ![Abschlusstreffen in Nagold](/assets/theme/images/abschlusstreffen.jpg)
 
