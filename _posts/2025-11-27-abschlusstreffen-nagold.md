@@ -1,15 +1,16 @@
 ---
-title: "Abschlusstreffen in Nagold"
+
+title: "Final Meeting in Nagold"
 date: 2025-11-27
-description: Am 27. November 2025 fand das Abschlusstreffen des Projekts bei Demonstratorintegration MartinMechanic in Nagold statt. 
+description: On November 27, 2025, the final meeting of the project took place at Demonstrator Integration MartinMechanic in Nagold.
 categories: meeting
 background: /assets/theme/images/abschlusstreffen.jpg
 ---
 
-# Abschlusstreffen und Demonstratorpräsentation
+# Final Meeting and Demonstrator Presentation
 
-Am 27. November 2025 fand das Abschlusstreffen des Projekts bei Demonstratorintegration MartinMechanic in Nagold statt. Das Team blickte gemeinsam auf die erreichten Meilensteine und Ergebnisse zurück und diskutierte zukünftige Perspektiven. Alle Komponenten wurden erfolgreich integriert und vor Ort demonstriert.
+On November 27, 2025, the final meeting of the project took place at Demonstrator Integration MartinMechanic in Nagold. The team looked back together on the milestones and results achieved and discussed future perspectives. All components were successfully integrated and demonstrated on site.
 
-![Abschlusstreffen in Nagold](/assets/theme/images/abschlusstreffen.jpg)
+![Final meeting in Nagold](/assets/theme/images/abschlusstreffen.jpg)
 
-Wir danken allen Beteiligten für die erfolgreiche Zusammenarbeit und das große Engagement während der gesamten Projektlaufzeit!
+We thank all participants for the successful collaboration and great commitment throughout the entire project duration!
