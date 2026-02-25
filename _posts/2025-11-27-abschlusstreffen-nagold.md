@@ -1,6 +1,7 @@
 ---
 title: "Abschlusstreffen in Nagold"
 date: 2025-11-27
+description: Am 27. November 2025 fand das Abschlusstreffen des Projekts bei Demonstratorintegration MartinMechanic in Nagold statt. 
 categories: meeting
 background: /assets/theme/images/abschlusstreffen.jpg
 ---
